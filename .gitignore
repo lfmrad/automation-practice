@@ -1,0 +1,25 @@
+# Ignore Maven target folders 
+**/target/
+
+# Ignore Maven backup/temporary files
+**/pom.xml.tag
+**/pom.xml.releaseBackup
+**/pom.xml.versionsBackup
+**/pom.xml.next
+**/release.properties
+**/dependency-reduced-pom.xml
+**/buildNumber.properties
+
+# Ignore IntelliJ IDEA project files and folders 
+**/.idea/
+**/*.iws
+**/*.iml
+**/*.ipr
+**/out/
+
+# Optional: Ignore VSCode settings
+**/.vscode/
+
+# Optional: Ignore OS-specific files
+.DS_Store
+Thumbs.db
